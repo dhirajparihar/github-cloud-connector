@@ -6,7 +6,7 @@ It connects to GitHub and exposes REST endpoints for common actions.
 ## Assignment Coverage
 
 - Authentication: PAT is supported by sending `Authorization: Bearer <token>`.
-                - OAuth 2.0 — Bonus
+- OAuth 2.0 (Bonus)
                 - OAuth 2.0 flow is implemented as an additional feature.
 - API Integration: real GitHub API calls implemented for:
   - Fetch repositories
